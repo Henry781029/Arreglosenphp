@@ -12,7 +12,16 @@
     </header>
 
     <main>
-    
+        
+        <?php
+
+            $producto1 = "arroz";
+            $producto2 = "arroz";
+            $producto3 = "arroz";
+            $producto4 = "arroz";
+
+
+        ?>
     
     
     </main>
